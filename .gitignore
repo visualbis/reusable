@@ -155,3 +155,4 @@ exampleDist/
 .cache/
 
 website/build
+.npmrc
