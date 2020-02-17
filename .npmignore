@@ -1,5 +1,6 @@
 /*
 /*/
 !/dist/*.js
+!/dist/*.ts
 !/src/reuseable.macro.js
 !macro.js
